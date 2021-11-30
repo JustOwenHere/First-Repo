@@ -1,1 +1,1 @@
-The continuation of playing around with Git.
+The continuation of playing around with Git. Now modified this file for the course.
